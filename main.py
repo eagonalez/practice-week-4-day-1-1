@@ -43,7 +43,8 @@ print(Averagegame2)
 # "The average points over two games is: [average_points]!"
 print(f"The avergae points over two games is:{Averagegame2}")
 # Ensure average_points is a float with one decimal.
-
+poop="hello"
+print("poop")
 #################### END OF PROBLEM SET ####################
 
 
